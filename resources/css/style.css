@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    /* align-items: center; */
+    
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+    align-items: center;
+}
+
+#video{
+    display: flex;
+    background-color: black;
+    /* text-align: center; */
+    align-items: center;
+}
+
+#grey-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+
+#image-1{
+    display: flex;
+    align-items: center;
+}
+
+#image-2{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
